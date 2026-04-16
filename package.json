@@ -1,0 +1,15 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "Starting react with parcel",
+  "license": "ISC",
+  "author": "Aniket Mallick",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
